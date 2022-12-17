@@ -119,7 +119,7 @@ class HomePage extends StatelessWidget {
                   // ignore: prefer_const_literals_to_create_immutables
                   tabs: [
                     Tab(
-                      text: 'Musics',
+                      text: 'Musicsss',
                     ),
                     Tab(
                       text: 'Playlists',
