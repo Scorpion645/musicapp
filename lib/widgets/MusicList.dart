@@ -78,7 +78,7 @@ class MusicList extends StatelessWidget {
                     ),
                     child: Icon(
                       Icons.play_arrow,
-                      size: 25,
+                      size: 24,
                       color: Color(0xFF31314F),
                     ),
                   )
